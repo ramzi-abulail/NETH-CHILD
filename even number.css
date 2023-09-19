@@ -1,0 +1,16 @@
+*{
+    float: left;
+  }
+    .div{
+        background-color: red;
+        border: 2px solid black;
+        height:20px ;
+        width: 40px;
+    }
+    .div1{
+        background-color: red;
+        border: 2px solid black;
+        height:20px ;
+        width: 40px;
+        visibility: hidden;
+    }
